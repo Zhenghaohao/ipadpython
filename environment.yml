@@ -1,7 +1,7 @@
 dependencies:
   - python=3
   - pip:
-    - spcay
+    - spacy
     - ipykernel
     - scipy
     - numpy
